@@ -1,6 +1,7 @@
 # Trabajo_Nro1
  Trabajo n°1 Skarlette Saez
 
+ 
 Se crea el nombre y tema de la pagina
 
 Se busca informacion sobre el tema elegido "los 7 chakras"
